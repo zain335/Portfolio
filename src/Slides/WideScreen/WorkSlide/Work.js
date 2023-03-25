@@ -68,7 +68,7 @@ class Work extends Component {
         projectDesc:
           "EstateChain offers customers an on-demand experience for selling, buying, renting and financing with transparency and nearly seamless end-to-end service using blockchain technology.",
         projectType: "NFT DApp",
-        roles: ["NFT", "Hardhat", "EtherJs", "React"],
+        roles: ["NFT","ERC721", "Hardhat", "EtherJs", "React"],
         link:"https://github.com/zain335/EstateChain",
         buttonText:"View on Github",
       },
