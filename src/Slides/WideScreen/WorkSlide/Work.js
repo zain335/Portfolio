@@ -72,14 +72,16 @@ class Work extends Component {
         link:"https://github.com/zain335/EstateChain",
         buttonText:"View on Github",
       },
-      // {
-      //   number: "05",
-      //   projectName: "Voistrap",
-      //   projectDesc:
-      //     "IoT project to give workplace insights using indoor localization, voice and schedule.",
-      //   projectType: "iOS APP",
-      //   roles: ["Full Stack Developer", "UI Designer"],
-      // },
+      {
+        number: "05",
+        projectName: "CrowdCoin",
+        projectDesc:
+          "Blockchain implementation of Kickstarter project for crowd-funding to bring a creative project to life by ensuring the trust of investors. ",
+        projectType: "Web Application",
+        roles: ["NextJs", "Semantic-UI","Web3Js","Solidity","Mocha"],
+        link:"https://github.com/zain335/CrowdCoin",
+        buttonText:"View on Github",
+      },
       // {
       //   number: "06",
       //   projectName: "WhatsMyFood",

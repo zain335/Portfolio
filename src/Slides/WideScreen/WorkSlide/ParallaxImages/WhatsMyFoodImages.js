@@ -30,7 +30,7 @@ bottom:-45vh;
 right: 2vw;
 /* border: 1px dashed red; */
 height: 80vh;
-filter: blur(0.6px);
+filter: blur(0.1px);
 `;
 
 const AddFood = styled.img.attrs({
@@ -39,12 +39,12 @@ const AddFood = styled.img.attrs({
   }),
 })`
 transition: transform 0.2s ease-out;
-bottom:-75vh;
+bottom:-45vh;
 left:2vw;
 position: absolute;
 /* border: 1px dashed red; */
 height: 80vh;
-filter: blur(0.8px);
+filter: blur(0.1px);
 `;
 
 const AddRestaurant = styled.img.attrs({
@@ -53,12 +53,12 @@ const AddRestaurant = styled.img.attrs({
   }),
 })`
 transition: transform 0.2s ease-out;
-bottom:-55vh;
+bottom:-45vh;
 right: 5vw;
 position: absolute;
 /* border: 1px dashed red; */
 height: 80vh;
-filter: blur(1.2px);
+filter: blur(0.3px);
 `;
 
 class WhatsMyFoodImages extends Component {
